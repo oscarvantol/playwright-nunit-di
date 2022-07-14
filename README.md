@@ -5,5 +5,18 @@ This example shows an example on how you could use Page Object Models with NUnit
 ## The story
 You can read the story behind this example in this [blogpost](https://dev.to/oscarvantol/playwright-nunit-page-object-models-and-dependencies-5ac1).
 
-## Next topics
+## Credits!
+Special thanks to the team:
+- Jelena Timcenko
+- Milan Maksimovic
+- [Marko Naumovic](https://github.com/MarkoNaumovic)
+- Alex Nap
+- [Ronald Veth](https://github.com/vethman)
+
+
+## Next topics //Todo
+- Example direct rest call during test
+  - HttpClientFactory
+  - getting client cookie / token from local storage
+- Add example making videos
 - ?
